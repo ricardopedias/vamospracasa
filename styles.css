@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    background-color: #ccc;
+    background-image: url('images/background-wood.jpg');
+    margin: 0; /* 6. Remove margens padrão que podem causar scrollbars */
+    padding: 0;
+}
+
+img {
+    display: block;
+    width: 100%;
+    max-width: 715px;
+    
+}
+
